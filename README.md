@@ -30,12 +30,12 @@ Mô tả quy trình bao gồm trình bày:
 Với quy trình **tư vấn sản phẩm trước khi mua**, cần xem khách hàng có **nhu cầu tư vấn** hay không. Nếu tư vấn thì cũng cần xem xét khách hàng có muốn **đặt đơn** hay không.
 
 Với quy trình **tiếp nhận và xử lý đơn hàng** cần phải lưu ý đến trường hợp **chênh lệch giá**.
-_* Việc chênh lệch giá sẽ xảy ra khi giá trên sàn TMĐT cao hơn so với giá hiển thị trên website. Sự chênh lệch này xảy ra là do khi có CTKM, phía NH chỉ kịp đưa lên website
+_Việc chênh lệch giá sẽ xảy ra khi giá trên sàn TMĐT cao hơn so với giá hiển thị trên website. Sự chênh lệch này xảy ra là do khi có CTKM, phía NH chỉ kịp đưa lên website
 mà chưa kịp cập nhật lên 3 sàn TMĐT._
 
-Quy trình *chăm sóc khách hàng sau khi mua* có thể bao gồm hoạt động sau:
+Quy trình **chăm sóc khách hàng sau khi mua** có thể bao gồm hoạt động sau:
 - **Khảo sát** và thăm hỏi về **mức độ hài lòng** đối với sản phẩm.
-- Sau khi khảo sát về mức độ hài lòng, khách hàng có thể liên hệ để **bảo hành** (Bảo hành có cam kết, Hư gì đối nấy hoặc Hoàn tiền) hoặc *giải đáp thắc mắc* hoặc *phản ánh khiếu nại* (3 quy trình này có thể diễn ra song song với nhau mà không cần thứ tự; có thể xảy ra hoặc không).
+- Sau khi khảo sát về mức độ hài lòng, khách hàng có thể liên hệ để **bảo hành** (Bảo hành có cam kết, Hư gì đối nấy hoặc Hoàn tiền) hoặc **giải đáp thắc mắc** hoặc **phản ánh khiếu nại** (3 quy trình này có thể diễn ra song song với nhau mà không cần thứ tự; có thể xảy ra hoặc không).
 
 _* Cần lưu ý rằng cần thể hiện thời gian rõ trong quy trình chăm sóc khách hàng vì thời gian đóng vai trò quan trọng trong việc tạo ra một trải nghiệm tích cực và duy trì mối quan hệ lâu dài với khách hàng._
 
